@@ -1,6 +1,6 @@
 # US_Shock
 
-This repository is the core codes used in the Wei et al. (2023).
+This repository contains the core codes used by Wei et al. (2023).
 
 ## RandomForest.ipynb 
 Python code for pre-processing the data (detrending and standardizing) and conducting the random forest analysis.
