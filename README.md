@@ -18,3 +18,7 @@ R code to calculate climate extreme indicators -- SPI and SPEI
 ## ClimateExtremes_example.ipynb
 
 Example code to calculate climate extreme indicators -- Tmax, Tmin, frs, etc. for corn.
+
+## Detrend&Standardization.ipynb
+
+Loop to detrend and standardize annual climate extreme variables and agricultural variables.
